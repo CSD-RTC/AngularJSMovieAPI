@@ -13,3 +13,6 @@ API Documentation
      📎 image path
      📎 movie resource url
      📎 results
+
+
+https://github.com/allchristyhern/AngularJSMovieAPI.git
